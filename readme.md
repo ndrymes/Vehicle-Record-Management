@@ -84,16 +84,9 @@ I had a lot of fun building this but there are some improvements I can still mak
 - add open Api for proper documentation
 - Have a standard response helper
 
+# Testing
 
-## Testing
+- To run the tests, simply type `npm test`
+- We can also get code coverage by `npm run coverage`
 
-### Run the test
-
-In order to run unit test only use: `npm run test`
-
-In order to run `integration tests`, you need to have a local postgresql running for your test environment:
-
-```
-# Run the test
-npm run test
-```
+Thank you 👍
